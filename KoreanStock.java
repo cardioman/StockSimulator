@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.lang.Math;
-
+//this is a sample message
 public class KoreanStock extends Stock{
 	
 	KoreanStock(String name,double initValue){
