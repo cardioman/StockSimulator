@@ -1,3 +1,4 @@
+package BasicStockTradingAccount;
 import java.util.Random;
 import java.lang.Math;
 //this is a sample message
